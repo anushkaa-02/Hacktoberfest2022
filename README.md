@@ -8,9 +8,18 @@
 - ### It's a month-long program from October 1st - 31st sponsored by [Digital Ocean](https://www.digitalocean.com/) and [GitHub](https://github.com/) to get people involved in Open Source.
 
 # How to contribute ?
-- Fork this repository.
-- Clone your fork repo to your local machine.
-- 
+```py
+'''
+1. Fork this repository.
+2. Clone your fork repo to your local machine.
+3. Add atleast one question of any company [Source should be mentioned, Platform : Leetcode/GFG etc.]
+4. Commit and push.
+5. Create a new pull request from your forked repository.
+6. Wait for your PR review and merge approval!
+7. Star this repository.
+8. Don't forget to add your name in `Contributors.md` file.
+'''
+```
 
 
 
