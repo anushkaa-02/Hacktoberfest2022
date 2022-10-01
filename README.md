@@ -20,6 +20,7 @@
 8. Don't forget to add your name in `Contributors.md` file.
 '''
 ```
-
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ ## <h3 align="center"> 📢 **Register [here](https://hacktoberfest.com/) between September 26th -31st October, 2022 to grab free SWAGS 🔥.** </h3>
+ ## <h2 align="center">Start Hacking !</h2>
 
