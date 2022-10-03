@@ -1,5 +1,5 @@
 ## <h1 align="center">Top Interview Questions</h1>
-### <h3 align="center"> This repository is under [Hacktoberfest2022](https://hacktoberfest.com/) </h3> 
+### <h2 align="center">🔴 This repository is no longer accepting any contribution!!!</h2> 
 ![hackto](https://user-images.githubusercontent.com/87390353/193393008-4b6dd671-b3a2-4037-8b02-0afa4021e53b.jpg)
 
 ---
