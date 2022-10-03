@@ -6,3 +6,4 @@
 | Sushavan Karmakar     | [sushavan20](https://github.com/Sushavan20)                   |
 | Dhrupad Chakraborty   | [dhrupad_17](https://github.com/dhrupad17)                    |
 | Shrangika             | [shrangika](https://github.com/Shrangika)                     |
+| Khushi Arora          | [Khushii-Arora](https://github.com/Khushii-Arora)             |
